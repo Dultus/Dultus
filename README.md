@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dultus&left_color=green&right_color=red)
+
+<a href="https://discord.com/users/181723479429611520">
+  <img src="https://discord.c99.nl/widget/theme-4/181723479429611520.png">
