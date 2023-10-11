@@ -1,7 +1,7 @@
 ## Hallo! 👋
 
 Herzlich Willkommen auf meinem Profil.
-Ich bin Dultus und ich bin ein Senior Cloud Engineer für ein Deutsches IT-Consulting Unternehmen.
+Ich bin Dultus und ich bin ein Senior Cloud Engineer für ein Deutsches Cloud-Consulting Unternehmen.
 
 Wenn Du irgendwelche Fragen hast, kontaktiere mich gerne über Discord.
 
